@@ -146,7 +146,7 @@ The best model was selected based on **highest KSS score and consistent rank ord
 
 1. **Clone the repository**:
    ```bash
-   git clone .https://github.com/AngadiAbhinay01/ML_Health_Premium_Predictiongit
+   git clone https://github.com/AngadiAbhinay01/ML_Credit_Risk_Modelling.git
    cd healthcare-premium-prediction
    ```
 2. **Install dependencies:**:   
