@@ -8,7 +8,7 @@
 An end-to-end **Machine Learning Classification Project** that predicts **Credit Risk** of loan applicants based on financial, demographic, and credit-related attributes.
 
 🔗 **Live App:**  
-**  
+*https://ml-creditrisk-modelling.streamlit.app/*  
 
 ---
 
